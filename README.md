@@ -20,6 +20,7 @@ Click pencil icon in  USER LIST
 
 **DELETE USER**
 Click trash icon
+
 <img width="350" alt="User List" src="https://github.com/vargoalfonso/CRUD-GetX/assets/86717471/a4a5bfc7-7719-4482-a115-1463903d9054">
 
 **ADD USER FLOW**
